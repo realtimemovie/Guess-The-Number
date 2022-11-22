@@ -3,10 +3,10 @@
     <br>
     <b>Guess The Number</b>
     <br>
-    <a href="https://code.visualstudio.com/">
+    <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/Download-VS%20-Orange?style=flat-square">
     </a>
-    <a href="https://www.jetbrains.com/idea/">
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
         <img src="https://img.shields.io/badge/Download-Idea%20-Orange?style=flat-square">
     </a>
    
