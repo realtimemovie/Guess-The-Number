@@ -18,8 +18,7 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
 
 ## **Run the Program** 📜
  To run the program, the device must have:
- - Java JDK (Used JDK version 11.0.8)
- - IDE (Netbeans, Eclipse, Intellj)
+ - IDE (Netbeans, Eclipse, Intellj, Vs Code)
 
 ## **Instruction of the Game** 📚
 1. Click the Play button
