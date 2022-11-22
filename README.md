@@ -4,7 +4,7 @@
     <b>Guess The Number</b>
     <br>
     <a href="#">
-        <img src="[https://img.shields.io/badge/Download-JAR%20-Orange?style=flat-square](https://img.shields.io/badge/Download-VS%20Code%20-Orange?style=flat-square)">
+        <img src="https://img.shields.io/badge/Download-VS%20-Orange?style=flat-square">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/Download-Idea%20-Orange?style=flat-square">
